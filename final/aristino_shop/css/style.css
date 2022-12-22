@@ -1,0 +1,163 @@
+.image img{
+    height: 400px;
+    width: 100%;
+}
+
+.image {
+    background-color: white;
+    margin-top: 30px;
+}
+
+.top_menu{
+    width: 100%;
+    height: 30px;
+    margin-top: -20px;
+}
+ul.menu{
+    list-style: none;
+    padding-top: -20px;
+    padding-left: 30px;
+    margin-left: 15px;
+}
+
+ul.menu li{
+    display: inline-block;
+}
+ul.menu li i{
+    padding-left:10px ;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.nav_item {
+    margin-left: 10px;
+}
+
+.menu {
+    background-color: black;
+}
+
+.logo {
+    height: 125px;
+    width: 50%;
+    margin-bottom : 20px;
+}
+
+h3{
+    position: absolute;
+    top : 10px;
+    left : 20px;
+}
+
+.item1 {
+    position: relative;
+}
+
+.anh{
+    width: 50%;
+    float : left;
+}
+
+.chu{
+    width: 40%;
+    float: left;
+    margin-left: 30px;
+}
+
+.img-fluid {
+    width: 700px;
+    height: 100%;
+}
+
+.navmenu {
+    margin-top: -12px;
+    margin-left: 10px;
+}
+
+.midtext {
+    font-family: "svgGilroy";
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+}
+
+.button{
+    margin-left: 600px;
+}
+
+.but1{
+    background-color: green;
+}
+
+.but2{
+    background-color: blue;
+}
+
+.sap{
+    margin-right: 150px;
+}
+
+.sanpham{
+    max-width: 350px;
+    max-height: 175px;
+}
+
+.demuc {
+    text-align : center;
+}
+
+.tintuc1 {
+    margin-left: 50px;
+    width: 45%;
+}
+
+.tintuc2 {
+    margin-left: 30px;
+    width: 45%;
+}
+
+.tintuc3 {
+    margin-left: 50px;
+    width: 45%;
+}
+
+.tintuc4 {
+    margin-left: 30px;
+    width: 45%;
+}
+
+.tin_tuc1{
+    width: 90%;
+}
+
+.tin_tuc2{
+    width: 100%;
+}
+
+.chung {
+    margin-left: 150px;
+    width: 1000px;
+}
+.number1{
+    width: 600px;
+}
+
+.number2 {
+    width: 300px;
+    float: right;
+    margin-top: -970px;
+}
+
+#thanhcong {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
